@@ -326,6 +326,7 @@ nav .fas{
 	}
 	.header-text h1{
 		font-size: 30px;
+		color: grey;
 	}
 	nav .fas{
 	display: block;
